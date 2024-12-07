@@ -5,9 +5,7 @@ html {
       padding: 0;
       background-image: url('background.svg');
       background-size: cover;
-      background-repeat: no-repeat; 
-      background-position: center; 
-  }
+}
 
 @-webkit-keyframes slidetounlock {
       0% {
